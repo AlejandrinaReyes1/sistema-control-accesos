@@ -23,39 +23,30 @@ El sistema deberá capturar una fotografía o grabar 10 segundos de video cuando
 **RF-06 – Consulta de evidencia**
 El sistema deberá permitir consultar las fotografías capturadas y los videos grabados de acuerdo con la fecha seleccionada.
 
-**RF-07 – Creación de cuenta**
-La aplicación deberá permitir al usuario crear una cuenta proporcionando su nombre, correo electrónico y contraseña.
+**RF-07 – Inicio de sesión**
+El sistema deberá permitir al administrador iniciar sesión mediante las credenciales predeterminadas proporcionadas por el desarrollador.
 
-**RF-08 – Inicio de sesión**
-La aplicación deberá permitir al usuario iniciar sesión mediante su correo electrónico y contraseña.
-
-**RF-09 – Eliminación de evidencia**
+**RF-08 – Eliminación de evidencia**
 El sistema deberá permitir al usuario eliminar las fotografías y videos registrados correspondientes a una o más fechas seleccionadas.
 
-**RF-10 – Descarga de evidencia**
+**RF-9 – Descarga de evidencia**
 El sistema deberá permitir al usuario descargar las fotografías y videos registrados.
 
-**RF-11 – Eliminación de cuenta**
-El sistema deberá permitir al usuario eliminar su cuenta.
-
-**RF-12 – Disponibilidad de cámara**
+**RF-10 – Disponibilidad de cámara**
 El sistema deberá verificar periódicamente la disponibilidad de las cámaras registradas y notificar al usuario cuando una cámara no se encuentre disponible.
 
-**RF-13 – Creación de sitios**
+**RF-11 – Creación de sitios**
 El sistema deberá permitir al usuario agregar un sitio de monitoreo proporcionando un nombre para identificarlo.
 
-**RF-14 – Consulta de sitios**
+**RF-12 – Consulta de sitios**
 El sistema deberá permitir al usuario seleccionar un sitio de monitoreo para consultar las cámaras y la bitácora asociadas al sitio.
 
-**RF-15 – Recuperación de contraseña**
-El sistema deberá permitir al usuario recuperar su contraseña mediante el correo electrónico asociado a su cuenta.
-
-**RF-16 – Registro de cámaras**
+**RF-13 – Registro de cámaras**
 El sistema deberá permitir al usuario agregar una cámara a un sitio de monitoreo proporcionando la información necesaria para establecer su conexión con el sistema.
 
 ## 3. Requerimientos no funcionales
 **RNF-01 – Seguridad de contraseñas**
-Las contraseñas de los usuarios deberán almacenarse utilizando un algoritmo de hash seguro y no deberán almacenarse en texto plano.
+La contraseña del usuarios deberá almacenarse utilizando un algoritmo de hash seguro y no deberá almacenarse en texto plano.
 
 **RNF-02 – Usabilidad**
 La aplicación deberá contar con una interfaz intuitiva que permita al usuario acceder a las principales funciones del sistema de manera sencilla.
