@@ -18,7 +18,7 @@ El sistema deberá enviar una notificación por correo electrónico cuando se de
 El sistema deberá registrar en una bitácora la fecha, hora y tipo de evento (entrada o salida) detectado en cada sitio monitoreado.
 
 **RF-05 – Evidencia**
-El sistema deberá capturar una fotografía o grabar 10 segundos de video cuando se detecte una apertura.
+El sistema deberá grabar 5 segundos de video cuando se detecte una apertura.
 
 **RF-06 – Consulta de evidencia**
 El sistema deberá permitir consultar las fotografías capturadas y los videos grabados de acuerdo con la fecha seleccionada.
